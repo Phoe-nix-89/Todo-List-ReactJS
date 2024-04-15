@@ -1,0 +1,10 @@
+.div1{
+    background-color: rgb(33, 21, 170);
+    color: white;
+    height: 40px;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
